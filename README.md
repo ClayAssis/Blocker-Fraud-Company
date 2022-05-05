@@ -178,9 +178,6 @@ So, we will choose the Top 4 best Recall models above to analyze.
 
 So, even with the slightly higher Precision interval, **we will choose the the XGB Tuned & Calibrated model as the final model to propose,  because of it's significant higher Recall.**
 
-**OBS:** For more about the decisions made and how it was done: [Blocker Fraud notebook](https://github.com/pedrofratucci/Blocker_Fraud_Company/blob/main/notebooks/blocker_fraud_PH.ipynb)
-
-
 # Business Solution Performance
 
 ## Bank Business Methods Comparison
